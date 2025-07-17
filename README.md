@@ -12,8 +12,10 @@ using `Scapy` that monitors live network traffic and detects potential `credenti
 
 ## ⚙️ Usage
 ### 📦 Requirements
-> Python 3
-> Scapy library
+
+> - Python 3
+> - Scapy library
+----
 
 Install with:
 ```bash
